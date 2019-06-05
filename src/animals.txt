@@ -1,0 +1,7 @@
+lion
+elephant
+tiger
+rabbit
+kangaroo
+giraffe
+zebra
